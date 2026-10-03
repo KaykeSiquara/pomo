@@ -47,11 +47,8 @@ npx serve .
 python3 -m http.server
 ```
 
-## Publicar no GitHub Pages
-
-Em **Settings → Pages**, escolha **Deploy from a branch**, o branch `main` e a pasta `/ (root)`. A imagem de compartilhamento deve ficar em `capa.png`, na raiz (1200 × 630).
-
 ## Créditos
 
 Design e código: Kayke Siquara ([GitHub](https://github.com/KaykeSiquara)).
+
 Bibliotecas: GSAP e Tone.js. Fonte: Gentium Book Plus (SIL Open Font License).
